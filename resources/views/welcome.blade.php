@@ -74,7 +74,7 @@
  <div>
     <h3></h3>              
  </div>
-                                <a class="btn btn-center" style="BORDER: rgb(234, 237, 237) 20px solid; FONT-SIZE: 15pt; FONT-FAMILY: Verdana; 
+                                <a class="btn btn-center" style="BORDER: rgb(234, 237, 237) 21px solid; FONT-SIZE: 15pt; FONT-FAMILY: Verdana; 
                                 BACKGROUND-COLOR: rgb(233,233,233)" href="https://drive.google.com/uc?export=download&id=1RFz_1wWavEAq4RHupovDNtbi8xbI2R2R">Kids Club</a>
  <div>
     <h3></h3>              
